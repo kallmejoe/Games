@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yousseftarek/Documents/GitHub/Connect4game",
+      "program": "/Users/yousseftarek/Documents/GitHub/Connect4game/build/Debug/outDebug"
+    }
+  ]
+}
